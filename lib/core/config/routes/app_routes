@@ -1,0 +1,8 @@
+import 'package:flutter/material.dart';
+import 'package:prueba_tecnica_doublevpartners/ui/views/register_view/register_view.dart';
+import 'package:prueba_tecnica_doublevpartners/ui/views/home_view/home_view.dart';
+
+Map<String, WidgetBuilder> appRoutes() => <String, WidgetBuilder> {
+  'home_view': ( _ ) => const HomeView(),
+  'register_view': ( _ ) => const RegisterView(),
+};
