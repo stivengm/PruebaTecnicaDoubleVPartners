@@ -1,6 +1,14 @@
 # prueba_tecnica_doublevpartners
 
-A new Flutter project.
+Este proyecto ha sido realizado en Flutter, Dart con versión 3.32.7
+
+# Pantallazos de la aplicación
+![Formulario1](assets/Formulario1.png)
+![Formulario2](assets/Formulario2.png)
+![Formulario3](assets/Formulario3.png)
+![DireccionAgregada](assets/DireccionAgregada.png)
+![UsuarioRegistrado](assets/UsuarioRegistrado.png)
+![HomeConInformación](assets/HomeConInformación.png)
 
 ## Getting Started
 
