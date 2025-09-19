@@ -2,6 +2,8 @@
 
 Este proyecto ha sido realizado en Flutter, Dart con versión 3.32.7
 
+Se añade un instalador APK en la carpeta assets para poder ejecutar la aplicación sencilla con nombre PruebaTecnicaDoubleVPartners.apk
+
 # Pantallazos de la aplicación
 ![Formulario1](assets/Formulario1.png)
 ![Formulario2](assets/Formulario2.png)
